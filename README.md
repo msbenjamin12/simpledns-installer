@@ -6,7 +6,7 @@ This repo contains ONLY the bootstrap installer and the README. It is safe, publ
 This repository contains the **public installer** used to install the private SimpleDNS server.
 
 The actual SimpleDNS codebase is stored in a **private repo**, so authentication is required.  
-This bootstrap process generates an SSH deploy key for the server, allows you to add it to GitHub,  
+This installer process generates an SSH deploy key for the server, allows you to add it to GitHub,  
 and then completes installation automatically.
 
 ---
